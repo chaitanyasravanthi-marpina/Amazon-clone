@@ -1,2 +1,2 @@
 # Amazon-clone
-built using html,css
+Built using HTML,CSS.
